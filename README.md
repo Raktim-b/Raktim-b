@@ -59,128 +59,61 @@
 ---
 
 
-## 🚀 Featured Backend Projects
+# 🚀 Featured Backend Projects
 
 <table>
 <tr>
-<td width="100%">
 
-### 🎓 Institute Management System
+<td width="50%">
 
-**Tech Stack:**  
-`Node.js` `Express.js` `MongoDB` `JWT` `RBAC` `Cloudinary`
+## 🎓 Institute Management System
 
-✔ Authentication & Authorization  
-✔ Student & Teacher Management  
-✔ Course & Batch Management  
-✔ Attendance System  
-✔ Enrollment System  
-✔ File Uploads
+> Complete backend for educational institutes.
+
+**⚡ Features**
+
+- JWT Authentication
+- RBAC
+- Student & Teacher Management
+- Batch & Course Management
+- Attendance
+- Enrollment
+- Cloudinary Upload
+
+**🛠 Tech**
+
+`Node.js` `Express` `MongoDB`
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🎟 Movie Ticket Booking API
+## 📈 Stock Market API
 
-**Tech Stack:**  
-`Node.js` `Express.js` `MongoDB`
+> RESTful backend for stock trading.
 
-✔ User Authentication  
-✔ Movie & Show Management  
-✔ Seat Booking  
-✔ Booking History  
-✔ Ticket Cancellation  
-✔ Payment Ready
+**⚡ Features**
 
-</td>
-</tr>
+- Portfolio
+- Buy & Sell
+- Dashboard
+- Aggregation
+- Analytics
 
-<tr>
-<td width="50%">
+**🛠 Tech**
 
-### 📈 Stock Market Backend
-
-**Tech Stack:**  
-`Node.js` `MongoDB` `JWT`
-
-✔ Stock CRUD  
-✔ Portfolio Management  
-✔ Buy & Sell Stocks  
-✔ Dashboard Analytics  
-✔ Aggregation Pipeline
-
-</td>
-
-<td width="50%">
-
-### 🔐 RBAC Management System
-
-**Tech Stack:**  
-`Node.js` `Express.js` `MongoDB`
-
-✔ JWT Authentication  
-✔ Role Based Access Control  
-✔ Admin Dashboard  
-✔ Permission Management  
-✔ Protected APIs
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📝 Blog Publishing API
-
-**Tech Stack:**  
-`Node.js` `Express.js` `MongoDB`
-
-✔ Create Blogs  
-✔ Categories  
-✔ Rich Text Support  
-✔ Comments  
-✔ Likes & Search
-
-</td>
-
-<td width="50%">
-
-### 📅 Daily Task Planner API
-
-**Tech Stack:**  
 `Node.js` `MongoDB`
 
-✔ Task CRUD  
-✔ Priority Levels  
-✔ Due Dates  
-✔ Task Status  
-✔ User Authentication
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ❓ Q&A Management System
-
-**Tech Stack:**  
-`Node.js` `MongoDB`
-
-✔ Questions & Answers  
-✔ Voting System  
-✔ Categories  
-✔ Search API  
-✔ User Roles
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td width="50%">
-
-### 🚧 More Projects Coming Soon...
-
-</td>
 </tr>
 </table>
 
