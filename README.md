@@ -37,19 +37,13 @@
 
 ---
 
-## 🔥 Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Raktim-b&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 ## 🔥 GitHub Profile Summary Cards
 
-[<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-b&layout=compact&theme=github_dark&hide_border=true"/>
-</p>](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raktim-b&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raktim-b&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raktim-b&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raktim-b&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raktim-b&theme=github_dark"/>
 
 ---
 
