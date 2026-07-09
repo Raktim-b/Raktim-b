@@ -23,9 +23,10 @@ HTML • CSS • JavaScript • TypeScript • React • Node.js • Express •
 - Portfolio: https://yourportfolio.com
 - ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Raktim-b&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-b&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raktim-b&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d866&area=true&hide_border=true" />
+</p>
 
 ## 💻 Tech Stack
 
