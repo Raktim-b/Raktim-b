@@ -59,60 +59,130 @@
 ---
 
 
-## 🚀 Featured Projects
+## 🚀 Featured Backend Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 Institute Management System
-> Complete backend solution for managing students, teachers, courses, batches, enrollments, attendance, and authentication.
 
-**Tech:** Node.js • Express.js • MongoDB • JWT • RBAC • Cloudinary
+**Tech Stack:**  
+`Node.js` `Express.js` `MongoDB` `JWT` `RBAC` `Cloudinary`
 
----
+✔ Authentication & Authorization  
+✔ Student & Teacher Management  
+✔ Course & Batch Management  
+✔ Attendance System  
+✔ Enrollment System  
+✔ File Uploads
 
-### 📈 Stock Market Backend
-> RESTful backend for stock trading, portfolio management, dashboard analytics, and transaction history.
+</td>
 
-**Tech:** Node.js • MongoDB • Aggregation Pipeline • JWT
-
----
+<td width="50%">
 
 ### 🎟 Movie Ticket Booking API
-> Backend for movie listings, show scheduling, seat booking, ticket cancellation, and booking history.
 
-**Tech:** Node.js • Express.js • MongoDB
+**Tech Stack:**  
+`Node.js` `Express.js` `MongoDB`
 
----
+✔ User Authentication  
+✔ Movie & Show Management  
+✔ Seat Booking  
+✔ Booking History  
+✔ Ticket Cancellation  
+✔ Payment Ready
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Stock Market Backend
+
+**Tech Stack:**  
+`Node.js` `MongoDB` `JWT`
+
+✔ Stock CRUD  
+✔ Portfolio Management  
+✔ Buy & Sell Stocks  
+✔ Dashboard Analytics  
+✔ Aggregation Pipeline
+
+</td>
+
+<td width="50%">
 
 ### 🔐 RBAC Management System
-> Secure authentication and authorization with multiple user roles and permission-based API access.
 
-**Tech:** Node.js • JWT • MongoDB
+**Tech Stack:**  
+`Node.js` `Express.js` `MongoDB`
 
----
+✔ JWT Authentication  
+✔ Role Based Access Control  
+✔ Admin Dashboard  
+✔ Permission Management  
+✔ Protected APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📝 Blog Publishing API
-> Backend for creating blogs, comments, likes, categories, search, and user management.
 
-**Tech:** Node.js • MongoDB • Express.js
+**Tech Stack:**  
+`Node.js` `Express.js` `MongoDB`
 
----
+✔ Create Blogs  
+✔ Categories  
+✔ Rich Text Support  
+✔ Comments  
+✔ Likes & Search
+
+</td>
+
+<td width="50%">
 
 ### 📅 Daily Task Planner API
-> Personal task management backend supporting priorities, deadlines, reminders, and progress tracking.
 
-**Tech:** Node.js • MongoDB
+**Tech Stack:**  
+`Node.js` `MongoDB`
 
----
+✔ Task CRUD  
+✔ Priority Levels  
+✔ Due Dates  
+✔ Task Status  
+✔ User Authentication
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### ❓ Q&A Management System
-> Stack Overflow–style backend with questions, answers, voting, categories, and search.
 
-**Tech:** Node.js • Express.js • MongoDB
+**Tech Stack:**  
+`Node.js` `MongoDB`
 
-## 📫 Connect With Me
+✔ Questions & Answers  
+✔ Voting System  
+✔ Categories  
+✔ Search API  
+✔ User Roles
 
-- 💼 LinkedIn: **Add your LinkedIn URL**
-- 🌐 Portfolio: **Add your portfolio URL**
-- 📧 Email: **Add your email**
+</td>
+
+<td width="50%">
+
+### 🚧 More Projects Coming Soon...
+
+</td>
+</tr>
+</table>
 
 ---
 
