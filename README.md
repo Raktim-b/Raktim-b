@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raktim Bhattacharya</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280">
+ <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350"/>
 </p>
 
 <p align="center">
@@ -58,11 +58,6 @@
 
 ---
 
-## 🔥 GitHub Trophies
-
-[![An image of @username's Holopin badges](https://holopin.me/username)](https://holopin.io/@username)
-
----
 
 ## 🚀 Featured Projects
 
