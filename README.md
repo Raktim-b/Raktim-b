@@ -40,7 +40,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Raktim-b&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Raktim-b&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
