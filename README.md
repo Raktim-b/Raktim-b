@@ -60,9 +60,7 @@
 
 ## 🔥 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raktim-b&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-</p>
+[![An image of @username's Holopin badges](https://holopin.me/username)](https://holopin.io/@username)
 
 ---
 
