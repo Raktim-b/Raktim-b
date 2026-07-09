@@ -59,77 +59,29 @@
 ---
 
 
-# 🚀 Featured Backend Projects
+# 🚀 Backend Projects
 
-<table>
+> 🎓 Institute Management System
+>
+> 🛠 Node.js • Express • MongoDB • JWT • RBAC
 
-<tr>
+---
 
-<td width="33%" align="center">
+> 📈 Stock Market Backend
+>
+> 🛠 Node.js • MongoDB • Aggregation
 
-# 🎓
+---
 
-### Institute Management
+> 🎟 Movie Ticket Booking API
+>
+> 🛠 Node.js • MongoDB
 
-Node.js • MongoDB
+---
 
-JWT • RBAC
-
-Attendance
-
-Enrollment
-
-Courses
-
-<a href="">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-# 📈
-
-### Stock Market
-
-Portfolio
-
-Aggregation
-
-Analytics
-
-Buy/Sell
-
-<a href="">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-# 🎟
-
-### Movie Booking
-
-Shows
-
-Seats
-
-Payments
-
-History
-
-<a href="">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
+> 🔐 RBAC Management System
+>
+> 🛠 JWT • Express • MongoDB
 
 ---
 
