@@ -40,10 +40,21 @@
 
 ## 🔥 GitHub Profile Summary Cards
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raktim-b&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raktim-b&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raktim-b&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raktim-b&theme=tokyonight&utcOffset=5.5"/>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raktim-b&theme=github_dark" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raktim-b&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
