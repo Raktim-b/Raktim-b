@@ -50,7 +50,7 @@
 
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raktim-b&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raktim-b&theme=github_dark"/>
 
 </td>
 </tr>
