@@ -38,50 +38,54 @@
 ---
 
 
-## 🔥 GitHub Profile Summary Cards
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🎓 Institute Management System
+> Complete backend solution for managing students, teachers, courses, batches, enrollments, attendance, and authentication.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raktim-b&theme=github_dark" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raktim-b&theme=github_dark"/>
-
-</td>
-</tr>
-</table>
+**Tech:** Node.js • Express.js • MongoDB • JWT • RBAC • Cloudinary
 
 ---
 
+### 📈 Stock Market Backend
+> RESTful backend for stock trading, portfolio management, dashboard analytics, and transaction history.
 
-# 🚀 Backend Projects
-
-> 🎓 Institute Management System
->
-> 🛠 Node.js • Express • MongoDB • JWT • RBAC
+**Tech:** Node.js • MongoDB • Aggregation Pipeline • JWT
 
 ---
 
-> 📈 Stock Market Backend
->
-> 🛠 Node.js • MongoDB • Aggregation
+### 🎟 Movie Ticket Booking API
+> Backend for movie listings, show scheduling, seat booking, ticket cancellation, and booking history.
+
+**Tech:** Node.js • Express.js • MongoDB
 
 ---
 
-> 🎟 Movie Ticket Booking API
->
-> 🛠 Node.js • MongoDB
+### 🔐 RBAC Management System
+> Secure authentication and authorization with multiple user roles and permission-based API access.
+
+**Tech:** Node.js • JWT • MongoDB
 
 ---
 
-> 🔐 RBAC Management System
->
-> 🛠 JWT • Express • MongoDB
+### 📝 Blog Publishing API
+> Backend for creating blogs, comments, likes, categories, search, and user management.
+
+**Tech:** Node.js • MongoDB • Express.js
+
+---
+
+### 📅 Daily Task Planner API
+> Personal task management backend supporting priorities, deadlines, reminders, and progress tracking.
+
+**Tech:** Node.js • MongoDB
+
+---
+
+### ❓ Q&A Management System
+> Stack Overflow–style backend with questions, answers, voting, categories, and search.
+
+**Tech:** Node.js • Express.js • MongoDB
 
 ---
 
