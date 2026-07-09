@@ -34,15 +34,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raktim-b&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d866&area=true&hide_border=true"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raktim-b&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d866&area=true&hide_border=true" />
-</p>
 
 ---
 
@@ -50,6 +41,22 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Raktim-b&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-b&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Raktim-b&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
