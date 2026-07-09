@@ -75,5 +75,6 @@
 - 📧 Email: **Add your email**
 
 ---
-
-> **"Building secure and scalable backend systems, one API at a time."** 🚀
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+</p>
