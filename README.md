@@ -62,59 +62,73 @@
 # 🚀 Featured Backend Projects
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## 🎓 Institute Management System
+# 🎓
 
-> Complete backend for educational institutes.
+### Institute Management
 
-**⚡ Features**
+Node.js • MongoDB
 
-- JWT Authentication
-- RBAC
-- Student & Teacher Management
-- Batch & Course Management
-- Attendance
-- Enrollment
-- Cloudinary Upload
+JWT • RBAC
 
-**🛠 Tech**
+Attendance
 
-`Node.js` `Express` `MongoDB`
+Enrollment
 
-<a href="YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+Courses
+
+<a href="">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## 📈 Stock Market API
+# 📈
 
-> RESTful backend for stock trading.
+### Stock Market
 
-**⚡ Features**
+Portfolio
 
-- Portfolio
-- Buy & Sell
-- Dashboard
-- Aggregation
-- Analytics
+Aggregation
 
-**🛠 Tech**
+Analytics
 
-`Node.js` `MongoDB`
+Buy/Sell
 
-<a href="YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<a href="">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+# 🎟
+
+### Movie Booking
+
+Shows
+
+Seats
+
+Payments
+
+History
+
+<a href="">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
