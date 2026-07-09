@@ -1,6 +1,6 @@
 # Hi 👋 I'm Raktim Bhattacharya
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=1500&color=F7D7A8&center=true&vCenter=true&width=800&lines=Node.js+Backend+Developer;Full+Stack+Developer;MongoDB+%7C+Express+%7C+React;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
