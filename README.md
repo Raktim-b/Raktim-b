@@ -1,38 +1,74 @@
-# Hi 👋 I'm Raktim Bhattacharya
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300">
-</p>
+<h1 align="center">Hi 👋, I'm Raktim Bhattacharya</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=4000&pause=1500&color=F7D7A8&center=true&vCenter=true&width=800&lines=Node.js+Backend+Developer;Full+Stack+Developer;MongoDB+%7C+Express+%7C;Always+Learning+New+Things"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="280">
 </p>
-
-## 💻 Full Stack Developer
-
-- 🌱 Currently learning Node.js & React
-- 🚀 Building scalable backend applications
-- ⚡ Love football, gaming and coding
-
-## 🛠 Tech Stack
-
-HTML • CSS • JavaScript • TypeScript • React • Node.js • Express • MongoDB • MySQL • Git
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-- ## 📊 GitHub Stats
-
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raktim-b&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d866&area=true&hide_border=true" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Node.js+Backend+Developer;REST+API+Developer;Express.js+%7C+MongoDB+%7C+JWT;Building+Scalable+Backend+Applications"/>
 </p>
 
-## 💻 Tech Stack
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,postman" />
-</p>
+## 👨‍💻 About Me
+
+- 🚀 Backend Developer specializing in **Node.js** and **Express.js**
+- 💾 Experienced with **MongoDB**, **Mongoose**, and **REST APIs**
+- 🔐 Passionate about **Authentication**, **JWT**, **RBAC**, and Backend Security
+- 🌱 Currently learning **Redis**, **Docker**, and **System Design**
+- ⚽ Football lover and coding enthusiast
+
+---
+
+## 🛠️ Backend Tech Stack
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+Developer;React+Developer;MongoDB+Enthusiast" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ts,mysql,git,github,postman,vscode,docker,redis" />
 </p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raktim-b&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d866&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raktim-b&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-b&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Raktim-b&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🎓 Institute Management System (Node.js, Express, MongoDB, JWT, RBAC)
+- 📦 Product Management REST API
+- 📚 SkillEarn Learning Platform
+- ☀️ Solar Solutions Website
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: **Add your LinkedIn URL**
+- 🌐 Portfolio: **Add your portfolio URL**
+- 📧 Email: **Add your email**
+
+---
+
+> **"Building secure and scalable backend systems, one API at a time."** 🚀
