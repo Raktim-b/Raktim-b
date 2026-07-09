@@ -37,19 +37,19 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Visitor Counter
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Raktim-b&theme=github-dark&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Raktim-b&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🔥 Top Languages
+## 🔥 GitHub Profile Summary Cards
 
-<p align="center">
+[<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-b&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+</p>](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raktim-b&theme=github_dark)
 
 ---
 
