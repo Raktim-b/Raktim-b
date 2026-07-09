@@ -76,5 +76,5 @@
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"/>
 </p>
