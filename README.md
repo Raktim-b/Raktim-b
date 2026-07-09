@@ -1,5 +1,11 @@
 # Hi 👋 I'm Raktim Bhattacharya
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300">
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7C68B&center=true&width=700&lines=Node.js+Developer;Backend+Engineer;MongoDB+Enthusiast"/>
+</p>
 ## 💻 Full Stack Developer
 
 - 🌱 Currently learning Node.js & React
