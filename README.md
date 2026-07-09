@@ -75,6 +75,7 @@
 - 📧 Email: **Add your email**
 
 ---
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
